@@ -4,3 +4,4 @@ Olá! Bem vindo ao meu livros de receitas. :books:
 
 - Strogonoff de Frango.
 - Pavê.
+- Brigadero
